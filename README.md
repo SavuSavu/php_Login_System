@@ -1,4 +1,4 @@
-# php_Login_System
+# PHP_Login_System
 
 The code has comments with everything you need to know.
 
